@@ -1,0 +1,3 @@
+This is some information about the project
+
+It's slightly different than the readme, because it's just describing the project in more of a long formed way.
